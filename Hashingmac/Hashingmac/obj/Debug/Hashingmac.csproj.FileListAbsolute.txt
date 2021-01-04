@@ -1,0 +1,7 @@
+C:\Users\Mr.Gawzy\source\repos\Hashingmac\Hashingmac\bin\Debug\Hashingmac.exe.config
+C:\Users\Mr.Gawzy\source\repos\Hashingmac\Hashingmac\bin\Debug\Hashingmac.exe
+C:\Users\Mr.Gawzy\source\repos\Hashingmac\Hashingmac\bin\Debug\Hashingmac.pdb
+C:\Users\Mr.Gawzy\source\repos\Hashingmac\Hashingmac\obj\Debug\Hashingmac.csprojAssemblyReference.cache
+C:\Users\Mr.Gawzy\source\repos\Hashingmac\Hashingmac\obj\Debug\Hashingmac.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Gawzy\source\repos\Hashingmac\Hashingmac\obj\Debug\Hashingmac.exe
+C:\Users\Mr.Gawzy\source\repos\Hashingmac\Hashingmac\obj\Debug\Hashingmac.pdb
